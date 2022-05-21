@@ -20,3 +20,4 @@ The first two terms together represent the variance over the model predictions f
 ### Aleatoric (data) and Epistemic (model) uncertainty on test data
 ![Uncertainty2](images/both_test.png)
 
+Regions of noise-free data, e.g. -10 to -5 have low uncertainty, regions with no data, e.g. -5 to 0 have high uncertainties and regions with noisy data e.g. 0-5 have low model uncertainty but high data uncertainty. As we go farther out to regions not fit at all, the model uncertainty continues to grow. 
