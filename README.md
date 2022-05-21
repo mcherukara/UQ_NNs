@@ -14,3 +14,4 @@ We use Alex Kendall and Yarin Gal's brilliant paper "[What Uncertainties Do We N
 ### Aleatoric (data) and Epistemic (model) uncertainty on test data
 ![Uncertainty2](images/both_test.png)
 
+$\sqrt{3x-1}+(1+x)^2$
